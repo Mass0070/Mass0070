@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ...<br />
+[SA Website](https://superawesome.ml/) & [MV Website](http://mysticvortex.ml/)<br /><br />
+
+- 🌱 I’m currently learning ...<br />
+<code><img height="20" src="https://mysticvortex.ml/Icons/css-3.png"></code>
+<code><img height="20" src="https://mysticvortex.ml/Icons/html-5.png"></code>
+<code><img height="20" src="https://mysticvortex.ml/Icons/vue.png"></code>
+<code><img height="20" src="https://mysticvortex.ml/Icons/bootstrap.svg"></code>
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=Mass0070&show_icons=true&theme=synthwave&count_private=true)]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mass0070&theme=synthwave&count_private=true)]
+
 <!--
 **Mass0070/Mass0070** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
