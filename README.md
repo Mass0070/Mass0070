@@ -8,6 +8,7 @@
 <code><img height="20" src="https://mysticvortex.ml/Icons/html-5.png"></code>
 <code><img height="20" src="https://mysticvortex.ml/Icons/vue.png"></code>
 <code><img height="20" src="https://mysticvortex.ml/Icons/bootstrap.svg"></code>
+<code><img height="20" src="https://mysticvortex.ml/Icons/sk.svg"></code>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=Mass0070&show_icons=true&theme=synthwave&count_private=true)]
 
