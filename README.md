@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<!--
 - 🔭 I’m currently working on ...<br />
 [SA Website](https://superawesome.ml/) & [MV Website](http://mysticvortex.ml/)<br /><br />
 
@@ -9,7 +9,7 @@
 <code><img height="20" src="https://mysticvortex.ml/Icons/vue.png"></code>
 <code><img height="20" src="https://mysticvortex.ml/Icons/bootstrap.svg"></code>
 <code><img height="20" src="https://mysticvortex.ml/Icons/sk.png"></code>
-
+-->
 [![Stats](https://github-readme-stats.vercel.app/api?username=Mass0070&show_icons=true&theme=synthwave&count_private=true)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=Mass0070&layout=compact&theme=synthwave&count_private=true)]
