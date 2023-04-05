@@ -10,9 +10,7 @@
 <code><img height="20" src="https://mysticvortex.ml/Icons/bootstrap.svg"></code>
 <code><img height="20" src="https://mysticvortex.ml/Icons/sk.png"></code>
 -->
-[![Stats](https://github-readme-stats.vercel.app/api?username=Mass0070&show_icons=true&theme=synthwave&count_private=true)]
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=Mass0070&layout=compact&theme=synthwave&count_private=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=Mass0070&layout=compact&theme=synthwave&count_private=true&hide_border=true&langs_count=6)]
 
 <!--
 **Mass0070/Mass0070** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
